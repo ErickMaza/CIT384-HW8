@@ -205,8 +205,8 @@ h2 {
 
 .image-bg {
     background:
-        linear-gradient( rgba(14, 44, 52, 0.2),rgba(5, 41, 43, 0.2)),
-        url('../images/images.jpeg') center / cover no-repeat;
+        linear-gradient(rgba(62, 148, 172, 0.352), rgba(68, 164, 169, 0.516)),
+        url('../images/csun.jpeg') center / cover no-repeat fixed;
 }
 
 @media (max-width: 600px) {
